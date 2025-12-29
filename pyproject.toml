@@ -1,6 +1,6 @@
 [project]
 name = "avilist-py"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python wrapper for the AviList checklist"
 authors = [{ name = "yuvalrot479", email = "yuvalrot@telhai.ac.il" }]
 dependencies = [
