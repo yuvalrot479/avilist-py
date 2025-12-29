@@ -28,5 +28,5 @@ pythonpath = ["src"]
 testpaths = ["tests"]
 
 [tool.pdm]
-distribution = false
+distribution = true
 

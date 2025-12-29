@@ -5,7 +5,7 @@
 [![Pydantic](https://img.shields.io/badge/validation-Pydantic-red)](https://docs.pydantic.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An intuitive, type-safe Python wrapper for interacting with the [AviList global bird checklist](https://www.avilist.org/checklist);  
+An intuitive, type-safe Python wrapper for the [AviList global bird checklist](https://www.avilist.org/checklist);  
 Retrieve rich avian taxonomic data with ease via simple yet powerful querying.
 
 ## Disclaimer
